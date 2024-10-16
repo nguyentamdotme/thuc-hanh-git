@@ -1,0 +1,18 @@
+1. Từ nhánh main. Tạo nhánh TEN_NGUOI_THUC_HIEN/bai-tap-3. Ví dụ: TAM/bai-tap-3
+2. chỉnh sửa nội dung file fetch.txt thành "Tim hieu ve FETCH" ==> "Tìm hiểu về Fetch"
+
+3. Thực hiện commit với thông điệp "edit fetch.txt".
+Lệnh: git commit -m "edit fetch.txt"
+
+4. Đẩy commit này lên repository từ xa.
+Lệnh: git push origin TAM/bai-tap-3
+
+5. Gộp nhánh nhanh-xung-dot vào nhánh TAM/bai-tap-3
+Lệnh: git merge nhanh-xung-dot
+
+6. Sửa xung đột code (conflict) và save lại.
+=> Tìm hiểu thêm trên internet
+=> Kết quả mong muốn: nội dung file fetch.txt sẽ là: "Tìm hiểu về Fetch và Xung Đột code"
+
+7. Đầy commit này lên repository từ xa.
+Lệnh: git push origin TAM/bai-tap-3

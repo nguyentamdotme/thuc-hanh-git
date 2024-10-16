@@ -1,8 +1,8 @@
-Tạo 1 nhánh mới có tên là bai-tap-1_{ten-nguoi-thuc-hien}
-Tạo một file mới có tên hello.txt và thêm nội dung "Hello Git!".
+1. Từ nhánh main. Tạo nhánh TEN_NGUOI_THUC_HIEN/bai-tap-1. Ví dụ: TAM/bai-tap-1
+2. Tạo một file mới có tên hello.txt và thêm nội dung "Hello Git!".
 
-Thực hiện commit với thông điệp "Add hello.txt".
+3. Thực hiện commit với thông điệp "Add hello.txt".
 Lệnh: git commit -m "Add hello.txt"
 
-Đẩy commit này lên repository từ xa.
+4. Đẩy commit này lên repository từ xa.
 Lệnh: git push origin main

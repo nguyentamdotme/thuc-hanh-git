@@ -1,7 +1,0 @@
-Tạo nhánh TEN_NGUOI_THUC_HIEN/bai-tap-2. Ví dụ: TAM/bai-tap-2
-Tạo hoặc chỉnh sửa thêm một vài file khác (có thể là file1.txt, file2.txt, v.v.).
-Tạo ít nhất 3 commit với các thông điệp khác nhau, ví dụ:
-Commit 1: "Update file1.txt"
-Commit 2: "Add file2.txt"
-Commit 3: "Fix typo in file1.txt"
-Đẩy tất cả các commit lên repository từ xa.
