@@ -1,1 +1,1 @@
-Tim hieu ve FETCH
+Tìm hiểu về fetch. Nguyễn Minh Tiến
