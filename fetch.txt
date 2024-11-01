@@ -1,3 +1,3 @@
 <<<<<<< HEAD
-Tim hieu ve FETCH và Xung Đột code
+Tim hieu ve FETCH và Xung Đột code tu Task.24 va Task 25
 =======
