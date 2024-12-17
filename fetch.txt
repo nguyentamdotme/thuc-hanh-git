@@ -1,6 +1,7 @@
+Tim hieu ve FETCH và Xung Đột code
+Tìm hiểu về fetch. Nguyễn Minh Tiến xử lý conflict 30/10
 <<<<<<< HEAD
 Tim hieu ve FETCH và Xung Đột code tu Task.24 va Task 25
 =======
 =======
 Tìm hiểu về fetch. Nguyễn Minh Tiến xử lý conflict
-
