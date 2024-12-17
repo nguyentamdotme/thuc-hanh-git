@@ -1,4 +1,4 @@
 <<<<<<< HEAD
-Tim hieu ve FETCH và Xung Đột code
+Tim hieu ve FETCH
 >>>>>>> TIEN/bai-tap-3
 >>>>>>> nhanh-xung-dot
