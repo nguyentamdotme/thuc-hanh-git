@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-Tim hieu ve FETCH
->>>>>>> TIEN/bai-tap-3
->>>>>>> nhanh-xung-dot
